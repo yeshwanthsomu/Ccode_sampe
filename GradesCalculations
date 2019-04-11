@@ -1,11 +1,4 @@
 
-//Name: Yeshwanth Somu
-//UserId: yks4zg
-//Homework #: 9
-//Problem #: 2
-//Program Name: yks4zg_grades.cpp
-//Pledge Signature: I have neither given nor received unauthorized aid on this assignment. -Yeshwanth Somu
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
